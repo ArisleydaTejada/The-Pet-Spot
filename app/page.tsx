@@ -19,7 +19,7 @@ export default function PetSpotLanding() {
             <span className="text-xl font-bold text-gray-800">Petspets Home</span>
              */}
             <Image
-              src="/bunny-logo.png"
+              src="./bunny-logo.png"
               width={200}
               height={200}
               alt="Three kittens in wicker basket"
@@ -67,7 +67,7 @@ export default function PetSpotLanding() {
               <div className="relative">
                 <div className="w-100 h-100 bg-yellow-400 rounded-full flex items-end justify-center">
                   <Image
-                    src="/perro-kuromi.png"
+                    src="./perro-kuromi.png"
                     width={340}
                     height={340}
                     alt="Happy golden retriever puppy"
@@ -90,7 +90,7 @@ export default function PetSpotLanding() {
               <div className="relative">
                 <div className="w-100 h-100 bg-sky-400 rounded-full flex items-center justify-center">
                   <Image
-                    src="/gatouwu.png"
+                    src="./gatouwu.png"
                     width={300}
                     height={300}
                     alt="Orange tabby kitten"
@@ -163,7 +163,7 @@ export default function PetSpotLanding() {
 
             <div className="flex justify-center">
               <Image
-                src="/michis-juntos.png"
+                src="./michis-juntos.png"
                 width={400}
                 height={300}
                 alt="Three kittens in wicker basket"
