@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const isGithubPages = process.env.NODE_ENV === 'production';
-const repoName = 'pet-spot'; // Reemplaza con el nombre exacto de tu repo
+const repoName = 'The-Pet-Spot'; // Reemplaza con el nombre exacto de tu repo
 
 const nextConfig = {
   output: 'export',
